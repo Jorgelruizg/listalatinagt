@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA GUATEMALA" tvg-logo="" group-title="GUATEMALA",AZTECA GUATEMALA
+https://llhls-live.akamaized.net/exp=1628782899~acl=%2F93d61868-c80e-49ca-9421-1b99042a1e3a_llhls%2F%2A~hmac=a4b75586b8f71cea6cd7bed3717010ecafbd759a59e7e2b490753fb8717af122/93d61868-c80e-49ca-9421-1b99042a1e3a_llhls/chunklist_b600000_cmaf_v.m3u8?max_segments=10&_HLS_msn=3985&_HLS_part=2&_HLS_skip=
+#EXTINF:-1 tvg-id="" tvg-name="GUATEVISION" tvg-logo="" group-title="GUATEMALA",GUATEVISION
+https://streannlive-lh.akamaihd.net/i/guatevision_1@870649/index_1_av-p.m3u8?sd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1628865529~acl=*~data=hdntl~hmac=9591a32fd30d2ea86956ef988311c2a63811f7b8792d889bc82586f7281ca9be
+#EXTINF:-1 tvg-id="" tvg-name="TELEVISIETE" tvg-logo="" group-title="GUATEMALA",TELEVISIETE
+https://gt-chapintv-canal7-live.ned.media/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4ODY1MDY4LCJzZXNzaW9uIjoiMTkxLjk4LjE5NS4yNiIsIndoaXRlbGlzdCI6WyIxOTEuOTguMTk1LjI2Il19LCJzaWduYXR1cmUiOiJlZGFlZDUxNjYzNzgzNGUwODliNzE4MjVjNjk5ZWE4NmVkNjdkYjk4In0%3D
+#EXTINF:-1 tvg-id="" tvg-name="TN 23" tvg-logo="" group-title="GUATEMALA",TN 23
+https://gt-chapintv-canal23-live.ned.media/chapintv/smil:canal23.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4ODY0ODIwLCJzZXNzaW9uIjoiMTkxLjk4LjE5NS4yNiIsIndoaXRlbGlzdCI6WyIxOTEuOTguMTk1LjI2Il19LCJzaWduYXR1cmUiOiI2YTkyNzAzZTAwMzAzMGI1ZjA1YWFkODQwN2Q2NDgyNmM2Nzg5YzljIn0%3D
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 3" tvg-logo="" group-title="GUATEMALA",CANAL 3
+https://gt-chapintv-canal3-live.ned.media/chapintv/smil:canal3.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4ODY0NTI5LCJzZXNzaW9uIjoiMTkxLjk4LjE5NS4yNiIsIndoaXRlbGlzdCI6WyIxOTEuOTguMTk1LjI2Il19LCJzaWduYXR1cmUiOiI2Y2U5MmM1N2VjZWY2MTlkYjE1ODY4NjMzNTE1YWUxOWE1MTVmOWQ2In0%3D
